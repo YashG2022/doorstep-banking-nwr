@@ -1,0 +1,952 @@
+BRANCH NO: 00656                                                                                                                                        PROC DATE: 17/03/2026
+ Total Amount for the A/c Number: 32508163484                         .00
+ 
+ Total Amount for the A/c Number: 35147583097                         .00
+ 
+ Total Amount for the A/c Number: 31371450582                         .00
+ 
+ Total Amount for the A/c Number: 36082004208                         .00
+ 
+ Total Amount for the A/c Number: 37804124044                         .00
+ 
+ Total Amount for the A/c Number: 34667981549                         .00
+ 
+ Total Amount for the A/c Number: 35294601960                         .00
+ 
+ 
+282816377CBGADJ00CI                         4,92,287.00                   4,92,287.00    GANDHINAGAR JAIPUR     COMMERCIAL               C      BAJAJ NAGAR (JAIPUR)03227  17032026     32494088995      
+ 
+287634461CBXGDD00CG                           23,350.00                   5,15,637.00            GADRA ROAD     COMMERCIAL               C      GADRA ROAD          32020  17032026     32494088995      
+ 
+139444856CBXSOS00CH                           81,065.00                   5,96,702.00               SOMESAR     COMMERCIAL               C      SOMESAR             31388  17032026     32494088995      
+ 
+146637486CBNANA00CB                           23,075.00                   6,19,777.00                  NANA     COMMERCIAL               C      NANA                31350  17032026     32494088995      
+ 
+236877370CBVNTD00C0                              205.00                   6,19,982.00               VANTADA     COMMERCIAL               C      MOTIPURA HIMMATNAGAR11004  17032026     32494088995      
+ 
+090312479CBXAWR00CS                         6,67,093.00                  12,87,075.00             ALWAR JN.     COMMERCIAL               C      ALWAR               00606  17032026     32494088995      
+ 
+097905609CBXNAC00CK                           19,750.00                  13,06,825.00             NAWA CITY     COMMERCIAL               C      NAWA                31119  17032026     32494088995      
+ 
+105592914CBXNYK00CD                              105.00                  13,06,930.00         NAYA KHARADIA     COMMERCIAL               C      NAWA                31119  17032026     32494088995      
+ 
+103289900CBBNSR00CB                              825.00                  13,07,755.00            BHAGWANSAR     COMMERCIAL               C      SURATGARH           07774  17032026     32494088995      
+ 
+319899210CBXAEL00C9                           22,350.00                  13,30,105.00                 ATELI     COMMERCIAL               C      ATELI MANDI         50683  17032026     32494088995      
+ 
+127099969CBXHNS00CR                           85,012.00                  14,15,117.00        HANSI JUNCTION     COMMERCIAL               C      HANSI               00647  17032026     32494088995      
+ 
+148736702CBXBAK00CB                            2,341.00                  14,17,458.00             BHAN KARI     COMMERCIAL               C      COLLECTORATE, DAUSA 32002  17032026     32494088995      
+ 
+220046733CBXSHN00C9                           18,686.00                  14,36,144.00          SUCHAN KOTLI     COMMERCIAL               C      DING (DISTT SIRSA-HA11951  17032026     32494088995      
+ 
+152031811CBXCLO00CF                              100.00                  14,36,244.00                 CHILO     COMMERCIAL               C      SHRIBALAJI (NAGAUR) 31968  17032026     32494088995      
+ 
+165026216CBXBLT00CT                         2,01,829.00                  16,38,073.00           BALOTRA JN.     COMMERCIAL               C      NAKODA ROAD, BALOTRA31175  17032026     32494088995      
+ 
+275972162PSCYA19624                           52,515.00                  16,90,588.00            SIROHICITY     PRADEEP                  C      Subhash Park, Sirohi31185  17032026     32494088995      
+ 
+126111694CBCHNN00C9                            1,361.00                  16,91,949.00              CHANNANI     COMMERCIAL               C      MAIN MARKET, CHAKSU 31040  17032026     32494088995      
+ 
+125282885CBCHNN00CD                              396.00                  16,92,345.00              CHANNANI     COMMERCIAL               C      MAIN MARKET, CHAKSU 31040  17032026     32494088995      
+ 
+129980636CBXDOZ00CL                           53,335.00                  17,45,680.00                DAURAI     COMMERCIAL               C      LOCO WORKSHOP (AJMER09207  17032026     32494088995      
+ 
+230775303CBBMSN00CF                              210.00                  17,45,890.00                BAMSIN     COMMERCIAL               C      RAKHI               32482  17032026     32494088995      
+ 
+130216179CBXLAU00CK                           70,190.00                  18,16,080.00                LADNUN     COMMERCIAL               C      SUJANGARH GANPATI PL32272  17032026     32494088995      
+ 
+159026106CBXAPA00CD                               20.00                  18,16,100.00              AMARPURA     COMMERCIAL               C      BEAWAR              00618  17032026     32494088995      
+ 
+162361824CBSGNR00CS                         5,97,890.00                  24,13,990.00       SHRI GANGANAGAR     COMMERCIAL               C      SRIGANGANAGAR       01778  17032026     32494088995      
+ 
+164758766CBXBKC00CE                              245.00                  24,14,235.00             BHIKAMKOR     COMMERCIAL               C      HOSPITAL ROAD, OSIAN31206  17032026     32494088995      
+ 
+102525142CBXSBR00CH                           42,946.00                  24,57,181.00          SAMBHAR LAKE     COMMERCIAL               C      SAMBHAR LAKE        00712  17032026     32494088995      
+ 
+262222932CBXMIO00C9                              875.00                  24,58,056.00               MOLISAR     COMMERCIAL               C      RATAN NAGAR         32117  17032026     32494088995      
+ 
+099576335CBXENB00CL                           47,985.00                  25,06,041.00             ELLENABAD     COMMERCIAL               C      ELLENABAD           02340  17032026     32494088995      
+ 
+127689457CBCHNN00C7                            3,395.00                  25,09,436.00              CHANNANI     COMMERCIAL               C      MAIN MARKET, CHAKSU 31040  17032026     32494088995      
+ 
+129563208CBXRNW00C9                           24,035.00                  25,33,471.00                RENWAL     COMMERCIAL               C      KISHANGARH-RENWAL   31777  17032026     32494088995      
+ 
+224275223CBVNTD00BU                              230.00                  25,33,701.00               VANTADA     COMMERCIAL               C      MOTIPURA HIMMATNAGAR11004  17032026     32494088995      
+ 
+174830631CBXBKC00CA                              350.00                  25,34,051.00             BHIKAMKOR     COMMERCIAL               C      HOSPITAL ROAD, OSIAN31206  17032026     32494088995      
+ 
+157248668CBXAPA00CB                              125.00                  25,34,176.00              AMARPURA     COMMERCIAL               C      BEAWAR              00618  17032026     32494088995      
+ 
+294012208CBXDOB00CA                           16,725.00                  25,50,901.00    DUNDLOD MUKANDGARH     COMMERCIAL               C      MUKANDGARH          31740  17032026     32494088995      
+ 
+206561986CBXBME00DM                         2,91,985.00                  28,42,886.00                BARMER     COMMERCIAL               C      BARMER              06095  17032026     32494088995      
+ 
+205917951CBXNDH00CB                           17,300.00                  28,60,186.00         NINDHAR BENAR     COMMERCIAL               C      JAIPUR KALWAD ROAD  31797  17032026     32494088995      
+ 
+200404775CBTIBI00CI                           16,640.00                  28,76,826.00                  TIBI     COMMERCIAL               C      TIBBI               31301  17032026     32494088995      
+ 
+201702378CBXRGQ00BV                              160.00                  28,76,986.00          RAIGADH ROAD     COMMERCIAL               C      MOTIPURA HIMMATNAGAR11004  17032026     32494088995      
+ 
+138977884CBXMWW00CA                              570.00                  28,77,556.00                 MAHWA     COMMERCIAL               C      MALAKHERA           31296  17032026     32494088995      
+ 
+192929796CBHRLI00CI                              350.00                  28,77,906.00               HARLAYA     COMMERCIAL               C      HOSPITAL ROAD, OSIAN31206  17032026     32494088995      
+ 
+158225269CBXAPA00CC                              140.00                  28,78,046.00              AMARPURA     COMMERCIAL               C      BEAWAR              00618  17032026     32494088995      
+ 
+125406040CBXXJU00CY                        20,58,417.00                  49,36,463.00           JODHPUR JN.     COMMERCIAL               C      JODHPUR MAIN BRANCH 00659  17032026     32494088995      
+ 
+134215082CBBMLL00C9                              170.00                  49,36,633.00                 BAMLA     COMMERCIAL               C      BHIWANI             01531  17032026     32494088995      
+ 
+134430986CBXBER00CZ                         3,18,361.00                  52,54,994.00                BEAWAR     COMMERCIAL               C      BEAWAR              00618  17032026     32494088995      
+ 
+259857963CBXJWS00CF                              265.00                  52,55,259.00              JHARWASA     COMMERCIAL               C      NASIRABAD           07828  17032026     32494088995      
+ 
+226327831CBBMSN00CA                              285.00                  52,55,544.00                BAMSIN     COMMERCIAL               C      RAKHI               32482  17032026     32494088995      
+ 
+110423184CBXLNH00CE                           18,175.00                  52,73,719.00    LACHHMANGARH-SIKAR     COMMERCIAL               C      LACHHMANGARH SIKAR  31124  17032026     32494088995      
+ 
+145503288CBBGKT00CQ                         3,86,360.00                  56,60,079.00       BHAGAT-KI-KOTHI     COMMERCIAL               C      JODHPUR MAIN BRANCH 00659  17032026     32494088995      
+ 
+230976980CBUMED00C9                            4,655.00                  56,64,734.00                  UMED     COMMERCIAL               C      KHARIA KHANGAR      09113  17032026     32494088995      
+ 
+180777234CBKAWT00C9                           18,437.00                  56,83,171.00                KANWAT     COMMERCIAL               C      KANWAT              64400  17032026     32494088995      
+ 
+202533573CBXPIH00CC                           16,392.00                  56,99,563.00             PARHIHARA     COMMERCIAL               C      PARIHARA            32265  17032026     32494088995      
+ 
+166668301CBXRGQ00BQ                              195.00                  56,99,758.00          RAIGADH ROAD     COMMERCIAL               C      MOTIPURA HIMMATNAGAR11004  17032026     32494088995      
+ 
+206978338CBXRGQ00BX                              615.00                  57,00,373.00          RAIGADH ROAD     COMMERCIAL               C      MOTIPURA HIMMATNAGAR11004  17032026     32494088995      
+ 
+128383631CBCHNN00CA                              760.00                  57,01,133.00              CHANNANI     COMMERCIAL               C      MAIN MARKET, CHAKSU 31040  17032026     32494088995      
+ 
+155396785CBALAI00CD                              685.00                  57,01,818.00                  ALAI     COMMERCIAL               C      SHRIBALAJI (NAGAUR) 31968  17032026     32494088995      
+ 
+157047454CBSBLJ00CA                            1,385.00                  57,03,203.00           SHRI BALAJI     COMMERCIAL               C      SHRIBALAJI (NAGAUR) 31968  17032026     32494088995      
+ 
+083842772CBXSMR00CJ                           91,285.00                  57,94,488.00               SAMDARI     COMMERCIAL               C      SAMDARI             31339  17032026     32494088995      
+ 
+298769366CBXRDD00CA                            9,560.00                  58,04,048.00        RIKHABDEV ROAD     COMMERCIAL               C      GANDHI ASHRAM ROAD D64366  17032026     32494088995      
+ 
+120187556CBXMVJ011M                           87,562.00                  58,91,610.00             MAVLI JN.     COMMERCIAL               C      MAVLI               31222  17032026     32494088995      
+ 
+135965588CBXMWW00CD                            1,590.00                  58,93,200.00                 MAHWA     COMMERCIAL               C      MALAKHERA           31296  17032026     32494088995      
+ 
+137208724CBXKWP00CF                           56,700.00                  59,49,900.00             KHATIPURA     COMMERCIAL               C      INDRA GANDHI NAGAR J61317  17032026     32494088995      
+ 
+250914548CBSRPJ00C9                           15,150.00                  59,65,050.00            SWARUPGANJ     COMMERCIAL               C      SAROOPGANJ          31320  17032026     32494088995      
+ 
+251255127CBXBDW00CA                            1,355.00                  59,66,405.00            BANDANWARA     COMMERCIAL               C      NASIRABAD           07828  17032026     32494088995      
+ 
+231369273CBKGBS00CB                            1,685.00                  59,68,090.00    KISHANGARH BALAWAS     COMMERCIAL               C      REWARI              00705  17032026     32494088995      
+ 
+135860351CBBMLL00C8                               50.00                  59,68,140.00                 BAMLA     COMMERCIAL               C      BHIWANI             01531  17032026     32494088995      
+ 
+209670514CBXMKN00CX                         2,08,243.00                  61,76,383.00           MAKRANA JN.     COMMERCIAL               C      MAKRANA             07799  17032026     32494088995      
+ 
+227405226CBBMSN00CB                              595.00                  61,76,978.00                BAMSIN     COMMERCIAL               C      RAKHI               32482  17032026     32494088995      
+ 
+228719107CBUMED00CA                            4,280.00                  61,81,258.00                  UMED     COMMERCIAL               C      KHARIA KHANGAR      09113  17032026     32494088995      
+ 
+229820919CBUMED00CB                            5,925.00                  61,87,183.00                  UMED     COMMERCIAL               C      KHARIA KHANGAR      09113  17032026     32494088995      
+ 
+236682765CBXRHI00C7                              560.00                  61,87,743.00            RAKHI HALT     COMMERCIAL               C      RAKHI               32482  17032026     32494088995      
+ 
+197277994CBXRPZ00CI                         2,64,445.00                  64,52,188.00       RANAPRATAPNAGAR     COMMERCIAL               C      UDAIPUR             01533  17032026     32494088995      
+ 
+255742401CBXJES00CI                           37,714.00                  64,89,902.00               JAITSAR     COMMERCIAL               C      MANDI JAITSAR       50852  17032026     32494088995      
+ 
+076002318CBXXMJ00CV                         1,97,093.00                  66,86,995.00            MARWAR JN.     COMMERCIAL               C      MARWAR JUNCTION     31196  17032026     32494088995      
+ 
+217605514CBXXDO00CK                         2,53,568.00                  69,40,563.00       DAUSA  JUNCTION     COMMERCIAL               C      DAUSA               07865  17032026     32494088995      
+ 
+228144059CBBMSN00CC                               50.00                  69,40,613.00                BAMSIN     COMMERCIAL               C      RAKHI               32482  17032026     32494088995      
+ 
+144027096CBXSOG00CV                         2,81,526.00                  72,22,139.00         SURATGARH JN.     COMMERCIAL               C      SURATGARH           07774  17032026     32494088995      
+ 
+116789791CBXDSO00CK                           32,210.00                  72,54,349.00              DESHNOKE     COMMERCIAL               C      DESHNOKE            31165  17032026     32494088995      
+ 
+127264591CBCHNN00CB                            1,685.00                  72,56,034.00              CHANNANI     COMMERCIAL               C      MAIN MARKET, CHAKSU 31040  17032026     32494088995      
+ 
+166034906CBXBKC00CD                              120.00                  72,56,154.00             BHIKAMKOR     COMMERCIAL               C      HOSPITAL ROAD, OSIAN31206  17032026     32494088995      
+ 
+175699390CBXBKC00CF                              195.00                  72,56,349.00             BHIKAMKOR     COMMERCIAL               C      HOSPITAL ROAD, OSIAN31206  17032026     32494088995      
+ 
+189589595CBBJNR00CI                         2,04,285.00                  74,60,634.00            BIJAINAGAR     COMMERCIAL               C      BIJAINAGAR          31739  17032026     32494088995      
+ 
+269530064A19725                               35,380.00                  74,96,014.00                PRSMVU     NAVEEN                   C      MOUNT ABU           02424  17032026     32494088995      
+ 
+211713392CBXBHL00CW                         5,84,115.00                  80,80,129.00              BHILWARA     COMMERCIAL               C      BHILWARA            06335  17032026     32494088995      
+ 
+147680170CBXKSI00CF                           61,104.00                  81,41,233.00                 KOSLI     COMMERCIAL               C      KOSLI, DIST-REWARI H11870  17032026     32494088995      
+ 
+155015140CBXAPA00C8                               20.00                  81,41,253.00              AMARPURA     COMMERCIAL               C      BEAWAR              00618  17032026     32494088995      
+ 
+150562094CBXCLO00CD                              150.00                  81,41,403.00                 CHILO     COMMERCIAL               C      SHRIBALAJI (NAGAUR) 31968  17032026     32494088995      
+ 
+242884544CBXSDF00CI                           44,710.00                  81,86,113.00                SUDSAR     SOHANLAL                 C      SRI DUNGARGARH GHOOM32267  17032026     32494088995      
+ 
+163324529CBXJNE00CC                              585.00                  81,86,698.00              JANIYANA     COMMERCIAL               C      NAKODA ROAD, BALOTRA31175  17032026     32494088995      
+ 
+323423505CBKRCD00CE                               10.00                  81,86,708.00         KHARWA CHANDA     COMMERCIAL               C      CHITRAKOOT NAGAR    61295  17032026     32494088995      
+ 
+237347996CBXKXG00CB                            4,165.00                  81,90,873.00        KHARIA KHANGAR     COMMERCIAL               C      KHARIA KHANGAR      09113  17032026     32494088995      
+ 
+200787812CBXOSN00CJ                           19,540.00                  82,10,413.00                OSIYAN     COMMERCIAL               C      HOSPITAL ROAD, OSIAN31206  17032026     32494088995      
+ 
+233535136CBUMED00CC                           10,105.00                  82,20,518.00                  UMED     COMMERCIAL               C      KHARIA KHANGAR      09113  17032026     32494088995      
+ 
+229791340CBKGBS00CA                            1,627.00                  82,22,145.00    KISHANGARH BALAWAS     COMMERCIAL               C      REWARI              00705  17032026     32494088995      
+ 
+264100538CBXMIO00C8                            1,685.00                  82,23,830.00               MOLISAR     COMMERCIAL               C      RATAN NAGAR         32117  17032026     32494088995      
+ 
+325033869CBXNIP00CA                           16,785.00                  82,40,615.00              NIZAMPUR     COMMERCIAL               C      GOSWAMI MARKET, NARN50104  17032026     32494088995      
+ 
+143520329CBXGIO00C8                            2,145.00                  82,42,760.00               GORIYAN     COMMERCIAL               C      KOTWALI ROAD, SIKAR 31122  17032026     32494088995      
+ 
+149825923CBXCLO00CC                              265.00                  82,43,025.00                 CHILO     COMMERCIAL               C      SHRIBALAJI (NAGAUR) 31968  17032026     32494088995      
+ 
+259131124CBXTIW00CD                            8,810.00                  82,51,835.00                TIVARI     COMMERCIAL               C      TINWARI             31410  17032026     32494088995      
+ 
+200502107CBXPIH00CF                            7,925.00                  82,59,760.00             PARHIHARA     COMMERCIAL               C      PARIHARA            32265  17032026     32494088995      
+ 
+170385492CBXSSA00CS                         4,70,202.00                  87,29,962.00                 SIRSA     COMMERCIAL               C      SIRSA MAIN BRANCH   00719  17032026     32494088995      
+ 
+240424843A000348                              49,663.00                  87,79,625.00              KALANAUR     SURENDERSINGH            C      KALANAUR            13694  17032026     32494088995      
+ 
+307812761CBXBUT00CH                           26,635.00                  88,06,260.00                 BAYTU     COMMERCIAL               C      BAITU               31352  17032026     32494088995      
+ 
+222791557CBVNTD00BS                               45.00                  88,06,305.00               VANTADA     COMMERCIAL               C      MOTIPURA HIMMATNAGAR11004  17032026     32494088995      
+ 
+255358248CBXDEP00C6                            1,516.00                  88,07,821.00              DEPALSAR     COMMERCIAL               C      RATAN NAGAR         32117  17032026     32494088995      
+ 
+294817339CBPSSP00P0                         1,66,835.00                  89,74,656.00           JAWAI BANDH     COMMERCIAL               C      SUMERPUR            06943  17032026     32494088995      
+ 
+242296094CBXJNX00CC                              410.00                  89,75,066.00          JAGANNATH JI     COMMERCIAL               C      KUTCHERY, JALORE    31181  17032026     32494088995      
+ 
+096858798CBBOTI00C4                            1,070.00                  89,76,136.00         BAORI THIKRIA     COMMERCIAL               C      REENGUS BAZAR, SRIMA31126  17032026     32494088995      
+ 
+208257394CBXRGQ00BY                              225.00                  89,76,361.00          RAIGADH ROAD     COMMERCIAL               C      MOTIPURA HIMMATNAGAR11004  17032026     32494088995      
+ 
+203922427CBXJRL00CH                           16,225.00                  89,92,586.00                JHARLI     COMMERCIAL               C      JHARLI              51229  17032026     32494088995      
+ 
+206608430CBXRMB00CE                           25,545.00                  90,18,131.00          RAMPURA BERI     COMMERCIAL               C      SADULPUR (RAJGARH)  10456  17032026     32494088995      
+ 
+248287100CBXNSD00CJ                           35,080.00                  90,53,211.00             NASIRABAD     COMMERCIAL               C      NASIRABAD           07828  17032026     32494088995      
+ 
+256175012CBXJWS00CA                               75.00                  90,53,286.00              JHARWASA     COMMERCIAL               C      NASIRABAD           07828  17032026     32494088995      
+ 
+277048732CBXNRI00CE                           11,024.00                  90,64,310.00               NARAINA     COMMERCIAL               C      PHULERA             31749  17032026     32494088995      
+ 
+081959809CBXRHG00CF                         1,18,462.00                  91,82,772.00               RAJGARH     COMMERCIAL               C      ADB RAJGARH         05311  17032026     32494088995      
+ 
+179644005CBXDIA00CL                         1,67,015.00                  93,49,787.00               DIDWANA     COMMERCIAL               C      MAHAVEER MARKET, DID31111  17032026     32494088995      
+ 
+225824911CBXJTS00CD                           14,296.00                  93,64,083.00              JATUSANA     COMMERCIAL               C      REWARI              00705  17032026     32494088995      
+ 
+145550972CBXGIO00C7                            1,940.00                  93,66,023.00               GORIYAN     COMMERCIAL               C      KOTWALI ROAD, SIKAR 31122  17032026     32494088995      
+ 
+145784750CBXNWH00CK                         1,20,415.00                  94,86,438.00             NAWALGARH     COMMERCIAL               C      NAWALGARH, JHUNJHUNU05104  17032026     32494088995      
+ 
+167191585CBXHMG00C7                            2,580.00                  94,89,018.00             HAMIRGARH     COMMERCIAL               C      BHILWARA            06335  17032026     32494088995      
+ 
+168843019CBXHMG00C6                            1,525.00                  94,90,543.00             HAMIRGARH     COMMERCIAL               C      BHILWARA            06335  17032026     32494088995      
+ 
+217241087CBXHMH00CU                         4,43,205.00                  99,33,748.00       HANUMANGARH JN.     COMMERCIAL               C      ADB HANUMANGARH     01858  17032026     32494088995      
+ 
+282246629CBXBSJ00C9                            3,575.00                  99,37,323.00  BHUPALSAGAR (KARERA)     COMMERCIAL               C      BHUPAL SAGAR        32149  17032026     32494088995      
+ 
+116524628CBXJJN00CJ                         1,36,495.00                1,00,73,818.00              JHUNJUNU     COMMERCIAL               C      PEERU SING CIRCLE,,J15991  17032026     32494088995      
+ 
+257456658CBXDEP00C7                            1,495.00                1,00,75,313.00              DEPALSAR     COMMERCIAL               C      RATAN NAGAR         32117  17032026     32494088995      
+ 
+258529599CBXJWS00CE                               70.00                1,00,75,383.00              JHARWASA     COMMERCIAL               C      NASIRABAD           07828  17032026     32494088995      
+ 
+261335553CBXXHP00C9                           23,925.00                1,00,99,308.00               HARIPUR     COMMERCIAL               C      RAIPUR MARWAR       31197  17032026     32494088995      
+ 
+101891697CBXXBI00CI                           45,570.00                1,01,44,878.00            BARI SADRI     COMMERCIAL               C      BARI SADRI          31240  17032026     32494088995      
+ 
+242121867CBXNNL00CN                         1,48,347.00                1,02,93,225.00               NARNAUL     COMMERCIAL               C      GOSWAMI MARKET, NARN50104  17032026     32494088995      
+ 
+233455829CBXAPJ00C8                            1,435.00                1,02,94,660.00        AMARPUR-JORASI     COMMERCIAL               C      GOSWAMI MARKET, NARN50104  17032026     32494088995      
+ 
+272791576CBXJOH00CC                              441.00                1,02,95,101.00             JUHARPURA     COMMERCIAL               C      RATAN NAGAR         32117  17032026     32494088995      
+ 
+191825996CBHRLI00CH                              187.00                1,02,95,288.00               HARLAYA     COMMERCIAL               C      HOSPITAL ROAD, OSIAN31206  17032026     32494088995      
+ 
+205298870CBXGEK00CE                              140.00                1,02,95,428.00           GEGAL AKHRI     COMMERCIAL               C      KISHANGARH CITY     31377  17032026     32494088995      
+ 
+231954221CBBMSN00CG                              255.00                1,02,95,683.00                BAMSIN     COMMERCIAL               C      RAKHI               32482  17032026     32494088995      
+ 
+244411415CBXMTD00CU                         2,48,257.00                1,05,43,940.00        MERTA ROAD JN.     COMMERCIAL               C      MERTA ROAD          32032  17032026     32494088995      
+ 
+102344321CBSMPR00CL                           62,276.00                1,06,06,216.00         SHRI MADHOPUR     COMMERCIAL               C      REENGUS BAZAR, SRIMA31126  17032026     32494088995      
+ 
+160044959CBXJNE00C8                              680.00                1,06,06,896.00              JANIYANA     COMMERCIAL               C      NAKODA ROAD, BALOTRA31175  17032026     32494088995      
+ 
+293255008CBDNRP00CH                         1,08,590.00                1,07,15,486.00             DUNGARPUR     COMMERCIAL               C      GANDHI ASHRAM ROAD D64366  17032026     32494088995      
+ 
+296255290CBXNUA00C8                            2,795.00                1,07,18,281.00                   NUA     COMMERCIAL               C      MUKANDGARH          31740  17032026     32494088995      
+ 
+301150825CBBNLW00PP                           35,461.00                1,07,53,742.00      BANASTHALI NIWAI     COMMERCIAL               C      NEWAI               31756  17032026     32494088995      
+ 
+137944845CBXBHT00CI                         1,11,128.00                1,08,64,870.00                BHATTU     COMMERCIAL               C      BHATTUKALAN         07186  17032026     32494088995      
+ 
+128671720CBSUJH00CW                         1,21,860.00                1,09,86,730.00             SUJANGARH     COMMERCIAL               C      SUJANGARH GANPATI PL32272  17032026     32494088995      
+ 
+083106139CBXJSM00CU                         2,55,084.00                1,12,41,814.00             JAISALMER     SHRIPALYADAV             C      JAISALMER           03877  17032026     32494088995      
+ 
+125863836CBXAIA00CA                           17,410.00                1,12,59,224.00                AJARKA     COMMERCIAL               C      MANDAWAR ALWAR      31059  17032026     32494088995      
+ 
+333293392CBXXRT00C1                              575.00                1,12,59,799.00                 ROHAT     COMMERCIAL               C      PALI                01636  17032026     32494088995      
+ 
+332646325CBXXRT00C2                            1,035.00                1,12,60,834.00                 ROHAT     COMMERCIAL               C      PALI                01636  17032026     32494088995      
+ 
+081369031CBXAPH00CL                           56,950.00                1,13,17,784.00              ANUPGARH     COMMERCIAL               C      ANOOPGARH           05105  17032026     32494088995      
+ 
+166356694CBXHMG00C8                            5,540.00                1,13,23,324.00             HAMIRGARH     COMMERCIAL               C      BHILWARA            06335  17032026     32494088995      
+ 
+219958349CBXBWK00CC                           17,525.00                1,13,40,849.00          BAWANI KHERA     COMMERCIAL               C      BHAWANI KHERA       51123  17032026     32494088995      
+ 
+187017971CBXXFL00CO                         2,71,119.00                1,16,11,968.00           PHULERA JN.     COMMERCIAL               C      PHULERA             31749  17032026     32494088995      
+ 
+149441274CBXBAK00CC                            1,165.00                1,16,13,133.00             BHAN KARI     COMMERCIAL               C      COLLECTORATE, DAUSA 32002  17032026     32494088995      
+ 
+276546145CBBOBS00C8                            4,000.00                1,16,17,133.00                 BOBAS     COMMERCIAL               C      BORAJ               31976  17032026     32494088995      
+ 
+155976949CBBGKT00CR                         4,07,629.00                1,20,24,762.00       BHAGAT-KI-KOTHI     COMMERCIAL               C      JODHPUR MAIN BRANCH 00659  17032026     32494088995      
+ 
+172844513CBXRGQ00BS                              195.00                1,20,24,957.00          RAIGADH ROAD     COMMERCIAL               C      MOTIPURA HIMMATNAGAR11004  17032026     32494088995      
+ 
+174189955CBXRGQ00BT                              400.00                1,20,25,357.00          RAIGADH ROAD     COMMERCIAL               C      MOTIPURA HIMMATNAGAR11004  17032026     32494088995      
+ 
+236605182CBXKXG00CC                            4,265.00                1,20,29,622.00        KHARIA KHANGAR     COMMERCIAL               C      KHARIA KHANGAR      09113  17032026     32494088995      
+ 
+296591376CBXRDD00CB                           14,545.00                1,20,44,167.00        RIKHABDEV ROAD     COMMERCIAL               C      GANDHI ASHRAM ROAD D64366  17032026     32494088995      
+ 
+108117402CBXLKS00CK                           92,722.00                1,21,36,889.00           LUNKARANSAR     COMMERCIAL               C      LUNKARANSAR A.D.B.  31416  17032026     32494088995      
+ 
+146107174CBBGKT00CO                         3,34,885.00                1,24,71,774.00       BHAGAT-KI-KOTHI     COMMERCIAL               C      JODHPUR MAIN BRANCH 00659  17032026     32494088995      
+ 
+235811117CBXKXG00CE                            3,655.00                1,24,75,429.00        KHARIA KHANGAR     COMMERCIAL               C      KHARIA KHANGAR      09113  17032026     32494088995      
+ 
+131798772CBBMLL00CA                              690.00                1,24,76,119.00                 BAMLA     COMMERCIAL               C      BHIWANI             01531  17032026     32494088995      
+ 
+232010366CBUMED00C8                            6,340.00                1,24,82,459.00                  UMED     COMMERCIAL               C      KHARIA KHANGAR      09113  17032026     32494088995      
+ 
+216158894CBXHMO00CJ                         1,23,292.00                1,26,05,751.00      HANUMANGARH TOWN     COMMERCIAL               C      ADB HANUMANGARH     01858  17032026     32494088995      
+ 
+217310006CBXBWK00CD                           20,920.00                1,26,26,671.00          BAWANI KHERA     COMMERCIAL               C      BHAWANI KHERA       51123  17032026     32494088995      
+ 
+114270430CBXSOD00CI                         1,00,805.00                1,27,27,476.00            SOJAT ROAD     COMMERCIAL               C      SOJAT ROAD A.D.B.   31404  17032026     32494088995      
+ 
+399200374CBXRNV00CK                         1,04,610.00                1,28,32,086.00              RANIWARA     COMMERCIAL               C      RANIWARA            31293  17032026     32494088995      
+ 
+352554793CBKYNT00CA                            1,100.00                1,28,33,186.00        KALYANKOT HALT     COMMERCIAL               C      MANDI JAITSAR       50852  17032026     32494088995      
+ 
+122046820CBXAIA00C6                            6,316.00                1,28,39,502.00                AJARKA     COMMERCIAL               C      MANDAWAR ALWAR      31059  17032026     32494088995      
+ 
+300131821CBXGND00CA                           10,450.00                1,28,49,952.00   GOVINDGARH MALIKPUR     COMMERCIAL               C      GOVINDGARH MALIKPUR 31042  17032026     32494088995      
+ 
+227338887CBVNTD00BX                               90.00                1,28,50,042.00               VANTADA     COMMERCIAL               C      MOTIPURA HIMMATNAGAR11004  17032026     32494088995      
+ 
+398605557CBXRNV00CJ                         1,01,090.00                1,29,51,132.00              RANIWARA     COMMERCIAL               C      RANIWARA            31293  17032026     32494088995      
+ 
+296641899CBXNUA00C7                            2,495.00                1,29,53,627.00                   NUA     COMMERCIAL               C      MUKANDGARH          31740  17032026     32494088995      
+ 
+322998418CBXXRT00C9                              545.00                1,29,54,172.00                 ROHAT     COMMERCIAL               C      PALI                01636  17032026     32494088995      
+ 
+334782382CBXMEC00CK                           48,805.00                1,30,02,977.00            MERTA CITY     COMMERCIAL               C      NAGAURI CHOURAHA, ME31115  17032026     32494088995      
+ 
+172932776CBXBKC00CB                              420.00                1,30,03,397.00             BHIKAMKOR     COMMERCIAL               C      HOSPITAL ROAD, OSIAN31206  17032026     32494088995      
+ 
+196134370CBPLCJ00CN                         1,32,455.00                1,31,35,852.00            PHALODI JN     COMMERCIAL               C      NAI SADAK, PHALODI  31205  17032026     32494088995      
+ 
+302145753CBXMOI00C9                            5,780.00                1,31,41,632.00             MORI BERA     COMMERCIAL               C      SUMERPUR            06943  17032026     32494088995      
+ 
+281438383CBGAMI00CJ                           37,475.00                1,31,79,107.00              GOGAMERI     COMMERCIAL               C      12 DPN DIST HANUMANG32373  17032026     32494088995      
+ 
+306766444CBSRDR00CJ                         1,19,386.00                1,32,98,493.00           SARDARSAHAR     COMMERCIAL               C      SARDAR SHAHAR       10457  17032026     32494088995      
+ 
+284870662CBXBSJ00CA                            7,671.00                1,33,06,164.00  BHUPALSAGAR (KARERA)     COMMERCIAL               C      BHUPAL SAGAR        32149  17032026     32494088995      
+ 
+287910365CBXJOB00CJ                           41,374.00                1,33,47,538.00        ASALPUR JOBNER     COMMERCIAL               C      BORAJ               31976  17032026     32494088995      
+ 
+321365501CBXRGS00CJ                         7,54,379.00                1,41,01,917.00            RINGUS JN.     COMMERCIAL               C      RAMANAND SCHO0L RD, 32001  17032026     32494088995      
+ 
+112678702CBXABR01F1                         6,16,301.00                1,47,18,218.00              ABU ROAD     COMMERCIAL               C      ABU ROAD            00601  17032026     32494088995      
+ 
+318349381CBBAGA00C9                            3,465.00                1,47,21,683.00               BHAGEGA     COMMERCIAL               C      NEEM KA THANA       10080  17032026     32494088995      
+ 
+090910142CBXCOM00CI                           66,685.00                1,47,88,368.00          CHOMUN SAMOD     COMMERCIAL               C      CHOMU               10488  17032026     32494088995      
+ 
+182695766CBHRLI00CE                              515.00                1,47,88,883.00               HARLAYA     COMMERCIAL               C      HOSPITAL ROAD, OSIAN31206  17032026     32494088995      
+ 
+207423941CBKMNC00CH                         1,26,345.00                1,49,15,228.00         KUCHAMAN CITY     COMMERCIAL               C      MAKRANA             07799  17032026     32494088995      
+ 
+073305153CBKESR00CG                           38,580.00                1,49,53,808.00        KESRI SINGHPUR     COMMERCIAL               C      KESRISINGHPUR       31154  17032026     32494088995      
+ 
+270273192CBXJOH00CA                            1,221.00                1,49,55,029.00             JUHARPURA     COMMERCIAL               C      RATAN NAGAR         32117  17032026     32494088995      
+ 
+124956973CBXHSI00C9                           23,175.00                1,49,78,204.00              HARSAULI     COMMERCIAL               C      MANDAWAR ALWAR      31059  17032026     32494088995      
+ 
+284641963CBXKRW00C8                               90.00                1,49,78,294.00                KHARWA     COMMERCIAL               C      KHARWA              32398  17032026     32494088995      
+ 
+192192911CBXJYM00CC                           33,595.00                1,50,11,889.00       JAI SAMAND ROAD     COMMERCIAL               C      SEMARI              32350  17032026     32494088995      
+ 
+119690627CBXKNL00CF                           46,535.00                1,50,58,424.00             KALANWALI     COMMERCIAL               C      KALANWALI           02381  17032026     32494088995      
+ 
+302208473CBXISA00C9                           17,067.00                1,50,75,491.00                ISARDA     COMMERCIAL               C      NEWAI               31756  17032026     32494088995      
+ 
+334315622CBXREN00CJ                           66,190.00                1,51,41,681.00                   REN     COMMERCIAL               C      NAGAURI CHOURAHA, ME31115  17032026     32494088995      
+ 
+137929641CBXKWP00CE                           47,180.00                1,51,88,861.00             KHATIPURA     COMMERCIAL               C      INDRA GANDHI NAGAR J61317  17032026     32494088995      
+ 
+099612394CBBOTI00C2                              940.00                1,51,89,801.00         BAORI THIKRIA     COMMERCIAL               C      REENGUS BAZAR, SRIMA31126  17032026     32494088995      
+ 
+209360936CBXAWR00CU                         4,86,139.00                1,56,75,940.00             ALWAR JN.     COMMERCIAL               C      ALWAR               00606  17032026     32494088995      
+ 
+220498030CBSRGH00CI                           78,620.00                1,57,54,560.00             SURAJGARH     COMMERCIAL               C      SURAJGARH           31135  17032026     32494088995      
+ 
+322485385CBKRCD00CC                               30.00                1,57,54,590.00         KHARWA CHANDA     COMMERCIAL               C      CHITRAKOOT NAGAR    61295  17032026     32494088995      
+ 
+154166223CBALAI00CA                              455.00                1,57,55,045.00                  ALAI     COMMERCIAL               C      SHRIBALAJI (NAGAUR) 31968  17032026     32494088995      
+ 
+158451448CBSBLJ00CC                              190.00                1,57,55,235.00           SHRI BALAJI     COMMERCIAL               C      SHRIBALAJI (NAGAUR) 31968  17032026     32494088995      
+ 
+282481523CBBOBS00CB                            1,395.00                1,57,56,630.00                 BOBAS     COMMERCIAL               C      BORAJ               31976  17032026     32494088995      
+ 
+316628312CBPLSN00C9                           20,340.00                1,57,76,970.00               PALSANA     COMMERCIAL               C      PALSANA             11313  17032026     32494088995      
+ 
+153011689CBXCLO00CG                              105.00                1,57,77,075.00                 CHILO     COMMERCIAL               C      SHRIBALAJI (NAGAUR) 31968  17032026     32494088995      
+ 
+318074248CBXNMK00CK                         1,35,030.00                1,59,12,105.00          NIM-KA-THANA     COMMERCIAL               C      NEEM KA THANA       10080  17032026     32494088995      
+ 
+134362609CBXMBY00CJ                         1,20,955.00                1,60,33,060.00         MANDI DABWALI     COMMERCIAL               C      MANDI DABWALI       00677  17032026     32494088995      
+ 
+204209981CBXGEK00CD                               35.00                1,60,33,095.00           GEGAL AKHRI     COMMERCIAL               C      KISHANGARH CITY     31377  17032026     32494088995      
+ 
+229257764CBBMSN00CD                              700.00                1,60,33,795.00                BAMSIN     COMMERCIAL               C      RAKHI               32482  17032026     32494088995      
+ 
+324152228CBKRCD00CD                               95.00                1,60,33,890.00         KHARWA CHANDA     COMMERCIAL               C      CHITRAKOOT NAGAR    61295  17032026     32494088995      
+ 
+136291453CBXKWP00CG                           69,077.00                1,61,02,967.00             KHATIPURA     COMMERCIAL               C      INDRA GANDHI NAGAR J61317  17032026     32494088995      
+ 
+187927033CBXPSL00C6                            2,405.00                1,61,05,372.00               PARISAL     COMMERCIAL               C      ALWAR               00606  17032026     32494088995      
+ 
+215482895CBXAII00M0                        20,65,726.00                1,81,71,098.00             AJMER JN.     COMMERCIAL               C      AJMER MAIN BRANCH   00603  17032026     32494088995      
+ 
+129565900CBMDJN00CL                           62,020.00                1,82,33,118.00              MADAR JN     COMMERCIAL               C      LOCO WORKSHOP (AJMER09207  17032026     32494088995      
+ 
+244029170CBXJNX00CB                              206.00                1,82,33,324.00          JAGANNATH JI     COMMERCIAL               C      KUTCHERY, JALORE    31181  17032026     32494088995      
+ 
+241264352CBXNHR00CI                           63,504.00                1,82,96,828.00                 NOHAR     COMMERCIAL               C      NOHAR               11303  17032026     32494088995      
+ 
+235583369CBXXRE00CV                         7,80,523.00                1,90,77,351.00            REWARI JN.     COMMERCIAL               C      REWARI              00705  17032026     32494088995      
+ 
+256666032CBXLGH00CS                         4,73,609.00                1,95,50,960.00           LALGARH JN.     COMMERCIAL               C      GANGA SHAHR ROAD (BI03401  17032026     32494088995      
+ 
+191424158CBGTJT00CD                           86,825.00                1,96,37,785.00       GETOR JAGATPURA     COMMERCIAL               C      JAIPUR JAGATPURA    31798  17032026     32494088995      
+ 
+255078476CBXJWS00CB                               90.00                1,96,37,875.00              JHARWASA     COMMERCIAL               C      NASIRABAD           07828  17032026     32494088995      
+ 
+257728895A19568                               61,835.00                1,96,99,710.00         PSVBSHANTIVAN     OMPRAKASH                C      PB KIVV, SHANTIVAN, 10638  17032026     32494088995      
+ 
+283301254CBXKRW00C7                              120.00                1,96,99,830.00                KHARWA     COMMERCIAL               C      KHARWA              32398  17032026     32494088995      
+ 
+266341224CBXJOH00CB                              465.00                1,97,00,295.00             JUHARPURA     COMMERCIAL               C      RATAN NAGAR         32117  17032026     32494088995      
+ 
+295739148CBXKRW00CD                              315.00                1,97,00,610.00                KHARWA     COMMERCIAL               C      KHARWA              32398  17032026     32494088995      
+ 
+101459487CBBNSR00C9                            1,500.00                1,97,02,110.00            BHAGWANSAR     COMMERCIAL               C      SURATGARH           07774  17032026     32494088995      
+ 
+295615438CBXRDD00CD                           16,910.00                1,97,19,020.00        RIKHABDEV ROAD     COMMERCIAL               C      GANDHI ASHRAM ROAD D64366  17032026     32494088995      
+ 
+330804724CBXHWT00C9                               35.00                1,97,19,055.00               HANWANT     COMMERCIAL               C      LUNI VB             05610  17032026     32494088995      
+ 
+346178324CBXKAI00C6                               70.00                1,97,19,125.00                KAIRLA     COMMERCIAL               C      PALI                01636  17032026     32494088995      
+ 
+274846366CBBOBS00CA                            1,220.00                1,97,20,345.00                 BOBAS     COMMERCIAL               C      BORAJ               31976  17032026     32494088995      
+ 
+095801899CBBOTI00C6                              490.00                1,97,20,835.00         BAORI THIKRIA     COMMERCIAL               C      REENGUS BAZAR, SRIMA31126  17032026     32494088995      
+ 
+156676243CBXAPA00CA                              100.00                1,97,20,935.00              AMARPURA     COMMERCIAL               C      BEAWAR              00618  17032026     32494088995      
+ 
+279996843CBLUNI00CI                           41,940.00                1,97,62,875.00              LUNI JN.     COMMERCIAL               C      LUNI VB             05610  17032026     32494088995      
+ 
+214585140CBSDLP00CR                         2,20,660.00                1,99,83,535.00          SADULPUR JN.     COMMERCIAL               C      SADULPUR (RAJGARH)  10456  17032026     32494088995      
+ 
+238268771CBMTDB006D                           11,490.00                1,99,95,025.00       MERTA RD BYPASS     COMMERCIAL               C      MERTA ROAD          32032  17032026     32494088995      
+ 
+153494173CBALAI00C9                            1,765.00                1,99,96,790.00                  ALAI     COMMERCIAL               C      SHRIBALAJI (NAGAUR) 31968  17032026     32494088995      
+ 
+212131837CBPDWA00PF                         1,27,710.00                2,01,24,500.00              PINDWARA     COMMERCIAL               C      NAGAR PALIKA, PINDWA31187  17032026     32494088995      
+ 
+197543758CBXOSN00CI                           19,470.00                2,01,43,970.00                OSIYAN     COMMERCIAL               C      HOSPITAL ROAD, OSIAN31206  17032026     32494088995      
+ 
+253624919CBXDEP00C8                            1,780.00                2,01,45,750.00              DEPALSAR     COMMERCIAL               C      RATAN NAGAR         32117  17032026     32494088995      
+ 
+112735692CBSGRA00CJ                         1,00,115.00                2,02,45,865.00             SANGARIYA     COMMERCIAL               C      SANGARIA            05299  17032026     32494088995      
+ 
+103773090CBXNYK00CB                              530.00                2,02,46,395.00         NAYA KHARADIA     COMMERCIAL               C      NAWA                31119  17032026     32494088995      
+ 
+108868952CBXNYK00CF                              760.00                2,02,47,155.00         NAYA KHARADIA     COMMERCIAL               C      NAWA                31119  17032026     32494088995      
+ 
+228444248CBKGBS00CC                            1,755.00                2,02,48,910.00    KISHANGARH BALAWAS     COMMERCIAL               C      REWARI              00705  17032026     32494088995      
+ 
+260833723CBXJWS00C7                              220.00                2,02,49,130.00              JHARWASA     COMMERCIAL               C      NASIRABAD           07828  17032026     32494088995      
+ 
+150798553CBXCLO00CE                               50.00                2,02,49,180.00                 CHILO     COMMERCIAL               C      SHRIBALAJI (NAGAUR) 31968  17032026     32494088995      
+ 
+157768243CBSBLJ00CB                              800.00                2,02,49,980.00           SHRI BALAJI     COMMERCIAL               C      SHRIBALAJI (NAGAUR) 31968  17032026     32494088995      
+ 
+301441619CBXMOI00CA                            4,245.00                2,02,54,225.00             MORI BERA     COMMERCIAL               C      SUMERPUR            06943  17032026     32494088995      
+ 
+300543967CBXUTL00CE                            5,135.00                2,02,59,360.00               UTARLAI     COMMERCIAL               C      UTTARALAI           04353  17032026     32494088995      
+ 
+309580509CBXKRW00CC                               40.00                2,02,59,400.00                KHARWA     COMMERCIAL               C      KHARWA              32398  17032026     32494088995      
+ 
+188861825CBHRLI00CF                              340.00                2,02,59,740.00               HARLAYA     COMMERCIAL               C      HOSPITAL ROAD, OSIAN31206  17032026     32494088995      
+ 
+358660267CBKYNT00CB                              945.00                2,02,60,685.00        KALYANKOT HALT     COMMERCIAL               C      MANDI JAITSAR       50852  17032026     32494088995      
+ 
+310251079CBXAQG00C9                            3,545.00                2,02,64,230.00        ASHAPURA GOMAT     COMMERCIAL               C      POKHARAN            11306  17032026     32494088995      
+ 
+205352348CBXCKD00CI                         1,02,333.00                2,03,66,563.00         CHARKHI DADRI     COMMERCIAL               C      RAJBIR MARKET CHARKH50103  17032026     32494088995      
+ 
+210007539CBXRGQ00BZ                              175.00                2,03,66,738.00          RAIGADH ROAD     COMMERCIAL               C      MOTIPURA HIMMATNAGAR11004  17032026     32494088995      
+ 
+295164173CBXNUA00CA                            3,535.00                2,03,70,273.00                   NUA     COMMERCIAL               C      MUKANDGARH          31740  17032026     32494088995      
+ 
+298781954CBXGND00C9                           11,567.00                2,03,81,840.00   GOVINDGARH MALIKPUR     COMMERCIAL               C      GOVINDGARH MALIKPUR 31042  17032026     32494088995      
+ 
+319967070CBXMDW00CF                           27,250.00                2,04,09,090.00         MARWAR MUNDWA     COMMERCIAL               C      MARWAR MUNDWA       31114  17032026     32494088995      
+ 
+234867373CBXKXG00CD                            4,940.00                2,04,14,030.00        KHARIA KHANGAR     COMMERCIAL               C      KHARIA KHANGAR      09113  17032026     32494088995      
+ 
+313591208CBXPOK00CL                           37,815.00                2,04,51,845.00               POKARAN     COMMERCIAL               C      POKHARAN            11306  17032026     32494088995      
+ 
+084495043CBXAWR00CR                         3,51,468.00                2,08,03,313.00             ALWAR JN.     COMMERCIAL               C      ALWAR               00606  17032026     32494088995      
+ 
+175828373CBKKNA00CH                           22,706.00                2,08,26,019.00             KHUNKHUNA     COMMERCIAL               C      MAHAVEER MARKET, DID31111  17032026     32494088995      
+ 
+204459026CBXRGQ00BW                              295.00                2,08,26,314.00          RAIGADH ROAD     COMMERCIAL               C      MOTIPURA HIMMATNAGAR11004  17032026     32494088995      
+ 
+329333648CBXHWT00C8                              255.00                2,08,26,569.00               HANWANT     COMMERCIAL               C      LUNI VB             05610  17032026     32494088995      
+ 
+129886054CBXDNA00CV                         1,42,590.00                2,09,69,159.00            DEGANA JN.     COMMERCIAL               C      DEGANA              31117  17032026     32494088995      
+ 
+111736363CBXXFA00CU                         3,23,346.00                2,12,92,505.00                 FALNA     COMMERCIAL               C      FALNA               07868  17032026     32494088995      
+ 
+154987601CBALAI00CC                              855.00                2,12,93,360.00                  ALAI     COMMERCIAL               C      SHRIBALAJI (NAGAUR) 31968  17032026     32494088995      
+ 
+351279821CBKYNT00CE                              615.00                2,12,93,975.00        KALYANKOT HALT     COMMERCIAL               C      MANDI JAITSAR       50852  17032026     32494088995      
+ 
+287773866CBXKRW00CB                              105.00                2,12,94,080.00                KHARWA     COMMERCIAL               C      KHARWA              32398  17032026     32494088995      
+ 
+160843485CBXJNE00C9                            1,400.00                2,12,95,480.00              JANIYANA     COMMERCIAL               C      NAKODA ROAD, BALOTRA31175  17032026     32494088995      
+ 
+185763038CBXPSL00C7                            5,175.00                2,13,00,655.00               PARISAL     COMMERCIAL               C      ALWAR               00606  17032026     32494088995      
+ 
+233496776CBXNAL00CN                           22,015.00                2,13,22,670.00              NAL HALT     COMMERCIAL               C      GANGA SHAHR ROAD (BI03401  17032026     32494088995      
+ 
+199222873CBXOSN00CG                           37,165.00                2,13,59,835.00                OSIYAN     COMMERCIAL               C      HOSPITAL ROAD, OSIAN31206  17032026     32494088995      
+ 
+203807988CBXPIH00CG                            5,005.00                2,13,64,840.00             PARHIHARA     COMMERCIAL               C      PARIHARA            32265  17032026     32494088995      
+ 
+186916667CBXPSL00C8                              980.00                2,13,65,820.00               PARISAL     COMMERCIAL               C      ALWAR               00606  17032026     32494088995      
+ 
+333850708CBXREN00CI                           98,470.00                2,14,64,290.00                   REN     COMMERCIAL               C      NAGAURI CHOURAHA, ME31115  17032026     32494088995      
+ 
+160821143CBXRGQ00BP                              775.00                2,14,65,065.00          RAIGADH ROAD     COMMERCIAL               C      MOTIPURA HIMMATNAGAR11004  17032026     32494088995      
+ 
+287123375CBXKRW00CA                               85.00                2,14,65,150.00                KHARWA     COMMERCIAL               C      KHARWA              32398  17032026     32494088995      
+ 
+226661888CBVNTD00BW                              220.00                2,14,65,370.00               VANTADA     COMMERCIAL               C      MOTIPURA HIMMATNAGAR11004  17032026     32494088995      
+ 
+104693054CBXNYK00CC                              840.00                2,14,66,210.00         NAYA KHARADIA     COMMERCIAL               C      NAWA                31119  17032026     32494088995      
+ 
+147412119CBXGIO00CA                            2,550.00                2,14,68,760.00               GORIYAN     COMMERCIAL               C      KOTWALI ROAD, SIKAR 31122  17032026     32494088995      
+ 
+329245777CBXXRT00C5                              860.00                2,14,69,620.00                 ROHAT     COMMERCIAL               C      PALI                01636  17032026     32494088995      
+ 
+124577949CBCHNN00CC                            1,126.00                2,14,70,746.00              CHANNANI     COMMERCIAL               C      MAIN MARKET, CHAKSU 31040  17032026     32494088995      
+ 
+293515537RJMDA000530                          55,400.00                2,15,26,146.00                  RJMD     RAJUGURJAR               C      KANKROLI            31211  17032026     32494088995      
+ 
+315635998CBBAGA00C7                            4,122.00                2,15,30,268.00               BHAGEGA     COMMERCIAL               C      NEEM KA THANA       10080  17032026     32494088995      
+ 
+229970509CBBMSN00CE                              410.00                2,15,30,678.00                BAMSIN     COMMERCIAL               C      RAKHI               32482  17032026     32494088995      
+ 
+351669838CBDBLA00CA                           24,395.00                2,15,55,073.00                 DABLA     COMMERCIAL               C      PATAN               31999  17032026     32494088995      
+ 
+328626818CBXREN00CH                           18,595.00                2,15,73,668.00                   REN     COMMERCIAL               C      NAGAURI CHOURAHA, ME31115  17032026     32494088995      
+ 
+345058891CBXKAI00C7                              205.00                2,15,73,873.00                KAIRLA     COMMERCIAL               C      PALI                01636  17032026     32494088995      
+ 
+261755629CBXDPA00CK                         2,53,965.00                2,18,27,838.00             DURGAPURA     COMMERCIAL               C      DURGAPURA           13057  17032026     32494088995      
+ 
+294677286CBXGND00C7                            9,691.00                2,18,37,529.00   GOVINDGARH MALIKPUR     COMMERCIAL               C      GOVINDGARH MALIKPUR 31042  17032026     32494088995      
+ 
+314225394CBXDOR00CD                           11,185.00                2,18,48,714.00               DUNDARA     COMMERCIAL               C      LUNI VB             05610  17032026     32494088995      
+ 
+335116715CBXHWT00CE                              245.00                2,18,48,959.00               HANWANT     COMMERCIAL               C      LUNI VB             05610  17032026     32494088995      
+ 
+174501380CBXKRH00CG                         1,02,610.00                2,19,51,569.00             KHAIRTHAL     COMMERCIAL               C      KHAIRTHAL BRANCH    11297  17032026     32494088995      
+ 
+204741423CBXPIH00CE                            4,985.00                2,19,56,554.00             PARHIHARA     COMMERCIAL               C      PARIHARA            32265  17032026     32494088995      
+ 
+170277836CBXBKC00CC                              470.00                2,19,57,024.00             BHIKAMKOR     COMMERCIAL               C      HOSPITAL ROAD, OSIAN31206  17032026     32494088995      
+ 
+280418733CBBOBS00C7                            2,175.00                2,19,59,199.00                 BOBAS     COMMERCIAL               C      BORAJ               31976  17032026     32494088995      
+ 
+359493968CBKYNT00CD                              920.00                2,19,60,119.00        KALYANKOT HALT     COMMERCIAL               C      MANDI JAITSAR       50852  17032026     32494088995      
+ 
+159221639CBXHSR00CT                         7,52,996.00                2,27,13,115.00             HISAR JN.     COMMERCIAL               C      RAILWAY ROAD, HISAR 50180  17032026     32494088995      
+ 
+134318192CBXMWW00CB                              290.00                2,27,13,405.00                 MAHWA     COMMERCIAL               C      MALAKHERA           31296  17032026     32494088995      
+ 
+180241814CBXADR00CN                           94,397.00                2,28,07,802.00         MANDI ADAMPUR     COMMERCIAL               C      DING (DISTT SIRSA-HA11951  17032026     32494088995      
+ 
+254183091CBXBKN00CY                        14,03,538.00                2,42,11,340.00           BIKANER JN.     COMMERCIAL               C      GANGA SHAHR ROAD (BI03401  17032026     32494088995      
+ 
+344030370CBXKAI00C8                            1,405.00                2,42,12,745.00                KAIRLA     COMMERCIAL               C      PALI                01636  17032026     32494088995      
+ 
+065344884CBXLHU00CI                         1,43,495.00                2,43,56,240.00            LOHARU JN.     COMMERCIAL               C      LOHARU              10731  17032026     32494088995      
+ 
+154278419CBSBNR00CI                           56,185.00                2,44,12,425.00        SRI VIJAINAGAR     COMMERCIAL               C      SRIVIJAY NAGAR, DIST11302  17032026     32494088995      
+ 
+191574840CBXSES00CB                           36,870.00                2,44,49,295.00                SEMARI     COMMERCIAL               C      SEMARI              32350  17032026     32494088995      
+ 
+149434513CBXGJS00CJ                           21,765.00                2,44,71,060.00           GAJSINGHPUR     COMMERCIAL               C      GAJSINGHPUR         31153  17032026     32494088995      
+ 
+229149939CBVNTD00BZ                              135.00                2,44,71,195.00               VANTADA     COMMERCIAL               C      MOTIPURA HIMMATNAGAR11004  17032026     32494088995      
+ 
+279091672CBXBSJ00C6                            3,615.00                2,44,74,810.00  BHUPALSAGAR (KARERA)     COMMERCIAL               C      BHUPAL SAGAR        32149  17032026     32494088995      
+ 
+285906959CBXKRW00C9                              200.00                2,44,75,010.00                KHARWA     COMMERCIAL               C      KHARWA              32398  17032026     32494088995      
+ 
+278567578CBBOBS00C9                            1,685.00                2,44,76,695.00                 BOBAS     COMMERCIAL               C      BORAJ               31976  17032026     32494088995      
+ 
+278651986CBXBSJ00C8                            4,875.00                2,44,81,570.00  BHUPALSAGAR (KARERA)     COMMERCIAL               C      BHUPAL SAGAR        32149  17032026     32494088995      
+ 
+132901623CBSDRA00C9                            3,505.00                2,44,85,075.00              SUDHRANA     COMMERCIAL               C      KOSLI, DIST-REWARI H11870  17032026     32494088995      
+ 
+216958729CBXPGK00CK                         1,00,610.00                2,45,85,685.00           PILI BANGAN     COMMERCIAL               C      ADB HANUMANGARH     01858  17032026     32494088995      
+ 
+275348988CBRTGH00CR                         1,57,412.00                2,47,43,097.00        RATANAGARH JN.     COMMERCIAL               C      ASHOK STAMBH, RATANG31139  17032026     32494088995      
+ 
+304867419CBXUTL00CD                            9,130.00                2,47,52,227.00               UTARLAI     COMMERCIAL               C      UTTARALAI           04353  17032026     32494088995      
+ 
+328224432CBXXRT00C7                              520.00                2,47,52,747.00                 ROHAT     COMMERCIAL               C      PALI                01636  17032026     32494088995      
+ 
+156753200CBSBLJ00C9                            1,315.00                2,47,54,062.00           SHRI BALAJI     COMMERCIAL               C      SHRIBALAJI (NAGAUR) 31968  17032026     32494088995      
+ 
+246774358CBVNTD00C1                              235.00                2,47,54,297.00               VANTADA     COMMERCIAL               C      MOTIPURA HIMMATNAGAR11004  17032026     32494088995      
+ 
+117364753CBRDRA00CK                         1,24,755.00                2,48,79,052.00              RAMDEVRA     COMMERCIAL               C      RAMDEORA            31651  17032026     32494088995      
+ 
+178622537CBDING00CE                           14,611.00                2,48,93,663.00                  DING     COMMERCIAL               C      DING (DISTT SIRSA-HA11951  17032026     32494088995      
+ 
+154349485CBALAI00CB                            1,010.00                2,48,94,673.00                  ALAI     COMMERCIAL               C      SHRIBALAJI (NAGAUR) 31968  17032026     32494088995      
+ 
+160249476CBBANE00CJ                         2,72,925.00                2,51,67,598.00                 BASNI     COMMERCIAL               C      JODHPUR MAIN BRANCH 00659  17032026     32494088995      
+ 
+295396800CBXNUA00C9                            3,215.00                2,51,70,813.00                   NUA     COMMERCIAL               C      MUKANDGARH          31740  17032026     32494088995      
+ 
+299614936CBXMMY00CF                           40,665.00                2,52,11,478.00      MARWAR MATHANIYA     COMMERCIAL               C      MATHANIA            32115  17032026     32494088995      
+ 
+225967142CBVNTD00BV                               90.00                2,52,11,568.00               VANTADA     COMMERCIAL               C      MOTIPURA HIMMATNAGAR11004  17032026     32494088995      
+ 
+321681518CBXNIP00C8                           15,405.00                2,52,26,973.00              NIZAMPUR     COMMERCIAL               C      GOSWAMI MARKET, NARN50104  17032026     32494088995      
+ 
+312468135CBBAGA00C5                            5,290.00                2,52,32,263.00               BHAGEGA     COMMERCIAL               C      NEEM KA THANA       10080  17032026     32494088995      
+ 
+127865844CBXAIA00C9                            6,685.00                2,52,38,948.00                AJARKA     COMMERCIAL               C      MANDAWAR ALWAR      31059  17032026     32494088995      
+ 
+317057097CBBAGA00C8                            5,000.00                2,52,43,948.00               BHAGEGA     COMMERCIAL               C      NEEM KA THANA       10080  17032026     32494088995      
+ 
+252923093CBXKKU00CF                           73,666.00                2,53,17,614.00             KANAKPURA     COMMERCIAL               C      KANAK PURA, SIRSI RO32155  17032026     32494088995      
+ 
+156022169CBXAPA00C9                               40.00                2,53,17,654.00              AMARPURA     COMMERCIAL               C      BEAWAR              00618  17032026     32494088995      
+ 
+248866782CBXUDZ00D6                         9,94,517.00                2,63,12,171.00          UDAIPUR CITY     COMMERCIAL               C      UDAIPUR             01533  17032026     32494088995      
+ 
+141246595CBXPMY00CU                         3,91,460.00                2,67,03,631.00           PALI MARWAR     COMMERCIAL               C      PALI                01636  17032026     32494088995      
+ 
+316270925CBXDOR00CF                            8,325.00                2,67,11,956.00               DUNDARA     COMMERCIAL               C      LUNI VB             05610  17032026     32494088995      
+ 
+184827467CBHRLI00CD                              550.00                2,67,12,506.00               HARLAYA     COMMERCIAL               C      HOSPITAL ROAD, OSIAN31206  17032026     32494088995      
+ 
+232677619CBKGBS00CD                            1,765.00                2,67,14,271.00    KISHANGARH BALAWAS     COMMERCIAL               C      REWARI              00705  17032026     32494088995      
+ 
+105260038CBCRWA00CF                         1,02,715.00                2,68,16,986.00               CHIRAWA     COMMERCIAL               C      Station road, Chiraw31128  17032026     32494088995      
+ 
+121520848CBXMMC00CH                         1,34,120.00                2,69,51,106.00            MAHAMANDIR     COMMERCIAL               C      JODHPUR MAIN BRANCH 00659  17032026     32494088995      
+ 
+273335886CBXFAN00CA                           33,655.00                2,69,84,761.00            FATEHNAGAR     COMMERCIAL               C      FATEHNAGAR          13558  17032026     32494088995      
+ 
+144801278CBBGKT00CP                         5,28,754.00                2,75,13,515.00       BHAGAT-KI-KOTHI     COMMERCIAL               C      JODHPUR MAIN BRANCH 00659  17032026     32494088995      
+ 
+198523838CBPLCJ00CM                         1,26,630.00                2,76,40,145.00            PHALODI JN     COMMERCIAL               C      NAI SADAK, PHALODI  31205  17032026     32494088995      
+ 
+207584166CBXKIN00CG                           39,660.00                2,76,79,805.00               KAPASAN     COMMERCIAL               C      STATION ROAD, KAPASA31245  17032026     32494088995      
+ 
+221949819CBVNTD00BR                              430.00                2,76,80,235.00               VANTADA     COMMERCIAL               C      MOTIPURA HIMMATNAGAR11004  17032026     32494088995      
+ 
+208473086CBDKBJ00CH                         2,24,816.00                2,79,05,051.00       DAHAR-KA-BALAJI     COMMERCIAL               C      JAIPUR KALWAD ROAD  31797  17032026     32494088995      
+ 
+276154008CBXBOW00CB                           10,470.00                2,79,15,521.00               BORAWAR     COMMERCIAL               C      MAKRANA             07799  17032026     32494088995      
+ 
+338056262CBXKAI00CB                              345.00                2,79,15,866.00                KAIRLA     COMMERCIAL               C      PALI                01636  17032026     32494088995      
+ 
+175435667CBXRGQ00BU                              785.00                2,79,16,651.00          RAIGADH ROAD     COMMERCIAL               C      MOTIPURA HIMMATNAGAR11004  17032026     32494088995      
+ 
+269926026CBXRKB00CK                         2,04,105.00                2,81,20,756.00       RAIKA BAGH PALA     COMMERCIAL               C      JODHPUR MAIN BRANCH 00659  17032026     32494088995      
+ 
+218444978CBXBWK00CE                           22,016.00                2,81,42,772.00          BAWANI KHERA     COMMERCIAL               C      BHAWANI KHERA       51123  17032026     32494088995      
+ 
+223494486CBVNTD00BT                               50.00                2,81,42,822.00               VANTADA     COMMERCIAL               C      MOTIPURA HIMMATNAGAR11004  17032026     32494088995      
+ 
+150211876CBXBAK00CD                            1,020.00                2,81,43,842.00             BHAN KARI     COMMERCIAL               C      COLLECTORATE, DAUSA 32002  17032026     32494088995      
+ 
+194485195CBPLCJ00CL                         1,29,645.00                2,82,73,487.00            PHALODI JN     COMMERCIAL               C      NAI SADAK, PHALODI  31205  17032026     32494088995      
+ 
+213967986CBXNGO00CW                         2,88,235.00                2,85,61,722.00                NAGAUR     COMMERCIAL               C      GANDHI CHOWK, NAGAUR31116  17032026     32494088995      
+ 
+276253709CBXXBU00CA                           20,622.00                2,85,82,344.00                 BASWA     COMMERCIAL               C      BASWA               31400  17032026     32494088995      
+ 
+232825015CBXRHI00C8                              605.00                2,85,82,949.00            RAKHI HALT     COMMERCIAL               C      RAKHI               32482  17032026     32494088995      
+ 
+234795789CBXAPJ00C7                              770.00                2,85,83,719.00        AMARPUR-JORASI     COMMERCIAL               C      GOSWAMI MARKET, NARN50104  17032026     32494088995      
+ 
+126446011CBXAIA00C7                            5,510.00                2,85,89,229.00                AJARKA     COMMERCIAL               C      MANDAWAR ALWAR      31059  17032026     32494088995      
+ 
+150694051CBCTKT00CG                           57,310.00                2,86,46,539.00          CHHOTI KHATU     COMMERCIAL               C      CHHOTI KHATU        12899  17032026     32494088995      
+ 
+296616233CBXGND00C8                            8,010.00                2,86,54,549.00   GOVINDGARH MALIKPUR     COMMERCIAL               C      GOVINDGARH MALIKPUR 31042  17032026     32494088995      
+ 
+211474838CBXPBC00CM                           31,485.00                2,86,86,034.00        PARVATSAR CITY     COMMERCIAL               C      PARBATSAR           31120  17032026     32494088995      
+ 
+151364144CBMKSR00CI                           87,000.00                2,87,73,034.00              MOKALSAR     COMMERCIAL               C      MOKALSAR            31461  17032026     32494088995      
+ 
+208349693CBXDQN00CM                           44,255.00                2,88,17,289.00               DHANERA     COMMERCIAL               C      DHANERA             02643  17032026     32494088995      
+ 
+297791256CBXRDD00CC                           15,680.00                2,88,32,969.00        RIKHABDEV ROAD     COMMERCIAL               C      GANDHI ASHRAM ROAD D64366  17032026     32494088995      
+ 
+102404167CBBNSR00CA                            1,380.00                2,88,34,349.00            BHAGWANSAR     COMMERCIAL               C      SURATGARH           07774  17032026     32494088995      
+ 
+335239263CBXXRT00C0                              600.00                2,88,34,949.00                 ROHAT     COMMERCIAL               C      PALI                01636  17032026     32494088995      
+ 
+097588800CBBOTI00C3                              930.00                2,88,35,879.00         BAORI THIKRIA     COMMERCIAL               C      REENGUS BAZAR, SRIMA31126  17032026     32494088995      
+ 
+099393366CBBNSR00C8                            1,225.00                2,88,37,104.00            BHAGWANSAR     COMMERCIAL               C      SURATGARH           07774  17032026     32494088995      
+ 
+260579765CBXMIO00CA                            1,670.00                2,88,38,774.00               MOLISAR     COMMERCIAL               C      RATAN NAGAR         32117  17032026     32494088995      
+ 
+315163651CBXDOR00CE                           16,020.00                2,88,54,794.00               DUNDARA     COMMERCIAL               C      LUNI VB             05610  17032026     32494088995      
+ 
+319420773CBSTNL00CG                           78,175.00                2,89,32,969.00               SATNALI     NAVEENKUMAR              C      SATNALI             50153  17032026     32494088995      
+ 
+187861722CBMBNL00CM                         1,83,105.00                2,91,16,074.00        MARWAR BHINMAL     COMMERCIAL               C      BHINMAL             11307  17032026     32494088995      
+ 
+201229613CBXPIH00CD                            9,740.00                2,91,25,814.00             PARHIHARA     COMMERCIAL               C      PARIHARA            32265  17032026     32494088995      
+ 
+280198230CBXSDS00CF                           49,776.00                2,91,75,590.00           SADULSHAHAR     COMMERCIAL               C      SADULSHAHAR         01779  17032026     32494088995      
+ 
+168981402CBXBKI00CL                         3,77,814.00                2,95,53,404.00          BANDIKUI JN.     COMMERCIAL               C      BANDIKUI            12821  17032026     32494088995      
+ 
+191016881CBGTJT00CF                         1,01,520.00                2,96,54,924.00       GETOR JAGATPURA     COMMERCIAL               C      JAIPUR JAGATPURA    31798  17032026     32494088995      
+ 
+312631720CBXRSH00C9                           14,281.00                2,96,69,205.00           RATAN SAHAR     COMMERCIAL               C      BAGAD               32228  17032026     32494088995      
+ 
+323178236CBXREN00CG                           17,755.00                2,96,86,960.00                   REN     COMMERCIAL               C      NAGAURI CHOURAHA, ME31115  17032026     32494088995      
+ 
+170601440CBXHMG00C5                            5,260.00                2,96,92,220.00             HAMIRGARH     COMMERCIAL               C      BHILWARA            06335  17032026     32494088995      
+ 
+218791545CBXSTD00CI                           43,200.00                2,97,35,420.00                SATROD     COMMERCIAL               C      MAIN BRANCH , HISAR 00652  17032026     32494088995      
+ 
+301533020CBXUTL00CF                            3,230.00                2,97,38,650.00               UTARLAI     COMMERCIAL               C      UTTARALAI           04353  17032026     32494088995      
+ 
+190095178CBHRLI00CG                              465.00                2,97,39,115.00               HARLAYA     COMMERCIAL               C      HOSPITAL ROAD, OSIAN31206  17032026     32494088995      
+ 
+104570239CBBNSR00CC                            1,120.00                2,97,40,235.00            BHAGWANSAR     COMMERCIAL               C      SURATGARH           07774  17032026     32494088995      
+ 
+249421830CBXBDW00CB                            1,225.00                2,97,41,460.00            BANDANWARA     COMMERCIAL               C      NASIRABAD           07828  17032026     32494088995      
+ 
+126445245CBCHNN00C8                              485.00                2,97,41,945.00              CHANNANI     COMMERCIAL               C      MAIN MARKET, CHAKSU 31040  17032026     32494088995      
+ 
+176998562CBXBKC00CG                              265.00                2,97,42,210.00             BHIKAMKOR     COMMERCIAL               C      HOSPITAL ROAD, OSIAN31206  17032026     32494088995      
+ 
+186142177CBRANI00CG                         1,26,055.00                2,98,68,265.00                  RANI     COMMERCIAL               C      RANI                04850  17032026     32494088995      
+ 
+080733969CBXRHG00CH                         1,04,366.00                2,99,72,631.00               RAJGARH     COMMERCIAL               C      ADB RAJGARH         05311  17032026     32494088995      
+ 
+159422869CBXJNE00C7                              595.00                2,99,73,226.00              JANIYANA     COMMERCIAL               C      NAKODA ROAD, BALOTRA31175  17032026     32494088995      
+ 
+106974578CBXNYK00CE                            1,545.00                2,99,74,771.00         NAYA KHARADIA     COMMERCIAL               C      NAWA                31119  17032026     32494088995      
+ 
+187720333CBHRLI00CA                              440.00                2,99,75,211.00               HARLAYA     COMMERCIAL               C      HOSPITAL ROAD, OSIAN31206  17032026     32494088995      
+ 
+211438399CBXKSG00CI                         2,34,371.00                3,02,09,582.00            KISHANGARH     COMMERCIAL               C      KISHANGARH CITY     31377  17032026     32494088995      
+ 
+332948698CBXHWT00CC                               80.00                3,02,09,662.00               HANWANT     COMMERCIAL               C      LUNI VB             05610  17032026     32494088995      
+ 
+084935841CBXAWR00CT                         5,17,185.00                3,07,26,847.00             ALWAR JN.     COMMERCIAL               C      ALWAR               00606  17032026     32494088995      
+ 
+088659019CBXRMN00CI                           49,975.00                3,07,76,822.00                 RAMAN     COMMERCIAL               C      GAUSHALA ROAD,RAMAN 50056  17032026     32494088995      
+ 
+209141858CBXXJP00E5                        52,22,171.00                3,59,98,993.00            JAIPUR JN.     COMMERCIAL               C      JAIPUR MAIN BRANCH  00656  17032026     32494088995      
+ 
+202439668CBXXLR00CD                               70.00                3,59,99,063.00               LADPURA     COMMERCIAL               C      KISHANGARH CITY     31377  17032026     32494088995      
+ 
+144000130CBXTSD00CI                           98,965.00                3,60,98,028.00         TAHSIL BHADRA     COMMERCIAL               C      BHADRA              13564  17032026     32494088995      
+ 
+179611901CBXMON00CF                           32,810.00                3,61,30,838.00                MODRAN     COMMERCIAL               C      BHINMAL             11307  17032026     32494088995      
+ 
+327474583CBXHWT00C7                              230.00                3,61,31,068.00               HANWANT     COMMERCIAL               C      LUNI VB             05610  17032026     32494088995      
+ 
+138440486CBXKWP00CD                           61,151.00                3,61,92,219.00             KHATIPURA     COMMERCIAL               C      INDRA GANDHI NAGAR J61317  17032026     32494088995      
+ 
+330200984CBXXRT00C4                              650.00                3,61,92,869.00                 ROHAT     COMMERCIAL               C      PALI                01636  17032026     32494088995      
+ 
+338596413CBXKAI00CA                              180.00                3,61,93,049.00                KAIRLA     COMMERCIAL               C      PALI                01636  17032026     32494088995      
+ 
+355344390CBKYNT00CC                            1,745.00                3,61,94,794.00        KALYANKOT HALT     COMMERCIAL               C      MANDI JAITSAR       50852  17032026     32494088995      
+ 
+196959293CBXOSN00CH                           36,670.00                3,62,31,464.00                OSIYAN     COMMERCIAL               C      HOSPITAL ROAD, OSIAN31206  17032026     32494088995      
+ 
+320537888CBXNIP00C7                           13,295.00                3,62,44,759.00              NIZAMPUR     COMMERCIAL               C      GOSWAMI MARKET, NARN50104  17032026     32494088995      
+ 
+200757926CBXSRW00CH                           49,150.00                3,62,93,909.00         SHRI KARANPUR     COMMERCIAL               C      ADB SRIKARANPUR     07323  17032026     32494088995      
+ 
+202668088CBSDGH00CJ                           39,822.00                3,63,33,731.00                  SDGH     SOHANLAL                 C      SRI DUNGARGARH GHOOM32267  17032026     32494088995      
+ 
+214797968CBRSNR00CI                         1,00,885.00                3,64,34,616.00       RAI SINGH NAGAR     COMMERCIAL               C      ADB RAI SINGH NAGAR 06327  17032026     32494088995      
+ 
+102647171CBXNYK00CA                              670.00                3,64,35,286.00         NAYA KHARADIA     COMMERCIAL               C      NAWA                31119  17032026     32494088995      
+ 
+191305789CBGTJT00CE                         1,25,092.00                3,65,60,378.00       GETOR JAGATPURA     COMMERCIAL               C      JAIPUR JAGATPURA    31798  17032026     32494088995      
+ 
+313982955CBBAGA00C6                            4,670.00                3,65,65,048.00               BHAGEGA     COMMERCIAL               C      NEEM KA THANA       10080  17032026     32494088995      
+ 
+225669118A000347                              80,545.00                3,66,45,593.00             NATHDWARA     RAJU                     C      NAYA ROAD, NATHDWARA31212  17032026     32494088995      
+ 
+330481496CBXXRT00C3                              990.00                3,66,46,583.00                 ROHAT     COMMERCIAL               C      PALI                01636  17032026     32494088995      
+ 
+123679593CBXAIA00C8                            5,291.00                3,66,51,874.00                AJARKA     COMMERCIAL               C      MANDAWAR ALWAR      31059  17032026     32494088995      
+ 
+215738678CBXBWK00CB                           17,505.00                3,66,69,379.00          BAWANI KHERA     COMMERCIAL               C      BHAWANI KHERA       51123  17032026     32494088995      
+ 
+263169704PABJA19817                           61,850.00                3,67,31,229.00                AMBAJI     SANJAYSHARMA             C      AMBAJI              01697  17032026     32494088995      
+ 
+279923965CBXBSJ00C7                            3,620.00                3,67,34,849.00  BHUPALSAGAR (KARERA)     COMMERCIAL               C      BHUPAL SAGAR        32149  17032026     32494088995      
+ 
+279369695CBXDUS00CE                           59,345.00                3,67,94,194.00              DULRASAR     COMMERCIAL               C      SARDAR SHAHAR       10457  17032026     32494088995      
+ 
+126571706CBXCUR00CS                         2,88,659.00                3,70,82,853.00                 CHURU     COMMERCIAL               C      CHURU               03873  17032026     32494088995      
+ 
+335969022CBXXRT00BZ                              905.00                3,70,83,758.00                 ROHAT     COMMERCIAL               C      PALI                01636  17032026     32494088995      
+ 
+295088704CBXJWB00OZ                         1,34,725.00                3,72,18,483.00           JAWAI BANDH     COMMERCIAL               C      SUMERPUR            06943  17032026     32494088995      
+ 
+331432538CBXHWT00CA                              125.00                3,72,18,608.00               HANWANT     COMMERCIAL               C      LUNI VB             05610  17032026     32494088995      
+ 
+317155186CBXRSH00C7                           10,930.00                3,72,29,538.00           RATAN SAHAR     COMMERCIAL               C      BAGAD               32228  17032026     32494088995      
+ 
+320443854CBKRCD00CF                               60.00                3,72,29,598.00         KHARWA CHANDA     COMMERCIAL               C      CHITRAKOOT NAGAR    61295  17032026     32494088995      
+ 
+332131232CBXHWT00CB                               30.00                3,72,29,628.00               HANWANT     COMMERCIAL               C      LUNI VB             05610  17032026     32494088995      
+ 
+342132952CBXKAI00C9                               40.00                3,72,29,668.00                KAIRLA     COMMERCIAL               C      PALI                01636  17032026     32494088995      
+ 
+227610279CBXBWL00CA                           22,075.00                3,72,51,743.00                 BAWAL     COMMERCIAL               C      REWARI              00705  17032026     32494088995      
+ 
+228032642CBVNTD00BY                              205.00                3,72,51,948.00               VANTADA     COMMERCIAL               C      MOTIPURA HIMMATNAGAR11004  17032026     32494088995      
+ 
+132913849CBXBNW00D1                         5,13,309.00                3,77,65,257.00           BHIWANI JN.     COMMERCIAL               C      BHIWANI             01531  17032026     32494088995      
+ 
+140760810CBXMKH00CB                           21,605.00                3,77,86,862.00             MALAKHERA     COMMERCIAL               C      MALAKHERA           31296  17032026     32494088995      
+ 
+190185491CBXGBP00CE                           60,825.00                3,78,47,687.00             GULABPURA     COMMERCIAL               C      BIJAINAGAR          31739  17032026     32494088995      
+ 
+171188368CBXRGQ00BR                              105.00                3,78,47,792.00          RAIGADH ROAD     COMMERCIAL               C      MOTIPURA HIMMATNAGAR11004  17032026     32494088995      
+ 
+244207356CBXNOK00CK                         2,49,025.00                3,80,96,817.00                 NOKHA     COMMERCIAL               C      SADAR BAZAR, NOKHA  31171  17032026     32494088995      
+ 
+248209590CBXBDW00CC                            1,440.00                3,80,98,257.00            BANDANWARA     COMMERCIAL               C      NASIRABAD           07828  17032026     32494088995      
+ 
+328903649CBXXRT00C6                              450.00                3,80,98,707.00                 ROHAT     COMMERCIAL               C      PALI                01636  17032026     32494088995      
+ 
+253683794CBXJWS00CD                              145.00                3,80,98,852.00              JHARWASA     COMMERCIAL               C      NASIRABAD           07828  17032026     32494088995      
+ 
+234359714CBXAPJ00C6                              634.00                3,80,99,486.00        AMARPUR-JORASI     COMMERCIAL               C      GOSWAMI MARKET, NARN50104  17032026     32494088995      
+ 
+316801415CBXRJR00CJ                           84,650.00                3,81,84,136.00            RAJALDESAR     COMMERCIAL               C      RAJALDESAR          31738  17032026     32494088995      
+ 
+300601677CBXMOI00CB                            7,155.00                3,81,91,291.00             MORI BERA     COMMERCIAL               C      SUMERPUR            06943  17032026     32494088995      
+ 
+100442532CBBOTI00C5                              805.00                3,81,92,096.00         BAORI THIKRIA     COMMERCIAL               C      REENGUS BAZAR, SRIMA31126  17032026     32494088995      
+ 
+314861615CBXNPS00CJ                           80,246.00                3,82,72,342.00               NAPASAR     COMMERCIAL               C      NAPASAR             31166  17032026     32494088995      
+ 
+135932272CBXGIO00C9                            3,715.00                3,82,76,057.00               GORIYAN     COMMERCIAL               C      KOTWALI ROAD, SIKAR 31122  17032026     32494088995      
+ 
+129602779CBMHRG00CI                           95,161.00                3,83,71,218.00          MAHENDRAGARH     COMMERCIAL               C      MOHINDER GARH       50105  17032026     32494088995      
+ 
+197513628CBPLCJ00CO                         1,53,660.00                3,85,24,878.00            PHALODI JN     COMMERCIAL               C      NAI SADAK, PHALODI  31205  17032026     32494088995      
+ 
+157654112CBSIKR00CS                         3,82,180.00                3,89,07,058.00             SIKAR JN.     COMMERCIAL               C      KOTWALI ROAD, SIKAR 31122  17032026     32494088995      
+ 
+142997921CBSDMK00CG                           12,355.00                3,89,19,413.00               SIDMUKH     COMMERCIAL               C      SIDHMUKH            32022  17032026     32494088995      
+ 
+106441200CBXJOR00CM                         1,15,525.00                3,90,34,938.00                 JALOR     COMMERCIAL               C      KUTCHERY, JALORE    31181  17032026     32494088995      
+ 
+336631914CBXKAI00CC                              595.00                3,90,35,533.00                KAIRLA     COMMERCIAL               C      PALI                01636  17032026     32494088995      
+ 
+073403697CBKLYT00CH                           37,550.00                3,90,73,083.00               KOLAYAT     COMMERCIAL               C      SADAR BAZAR, KOLAYAT31168  17032026     32494088995      
+ 
+321532822CBXDOR00CG                           18,855.00                3,90,91,938.00               DUNDARA     COMMERCIAL               C      LUNI VB             05610  17032026     32494088995      
+ 
+110366292CBXNYK00CG                              525.00                3,90,92,463.00         NAYA KHARADIA     COMMERCIAL               C      NAWA                31119  17032026     32494088995      
+ 
+156226321CBSBLJ00C8                              855.00                3,90,93,318.00           SHRI BALAJI     COMMERCIAL               C      SHRIBALAJI (NAGAUR) 31968  17032026     32494088995      
+ 
+310470489CBXRSH00C6                           11,612.00                3,91,04,930.00           RATAN SAHAR     COMMERCIAL               C      BAGAD               32228  17032026     32494088995      
+ 
+334614678CBXHWT00CD                              200.00                3,91,05,130.00               HANWANT     COMMERCIAL               C      LUNI VB             05610  17032026     32494088995      
+ 
+147994547CBXBAK00CA                            2,325.00                3,91,07,455.00             BHAN KARI     COMMERCIAL               C      COLLECTORATE, DAUSA 32002  17032026     32494088995      
+ 
+327510298CBXXRT00C8                            1,380.00                3,91,08,835.00                 ROHAT     COMMERCIAL               C      PALI                01636  17032026     32494088995      
+ 
+137396783CBXMWW00CC                              960.00                3,91,09,795.00                 MAHWA     COMMERCIAL               C      MALAKHERA           31296  17032026     32494088995      
+ 
+162344273CBXJNE00CB                              360.00                3,91,10,155.00              JANIYANA     COMMERCIAL               C      NAKODA ROAD, BALOTRA31175  17032026     32494088995      
+ 
+161586236CBXJNE00CA                              555.00                3,91,10,710.00              JANIYANA     COMMERCIAL               C      NAKODA ROAD, BALOTRA31175  17032026     32494088995      
+ 
+315615860CBXRSH00C8                           10,905.00                3,91,21,615.00           RATAN SAHAR     COMMERCIAL               C      BAGAD               32228  17032026     32494088995      
+ Total Amount for the A/c Number: 32494088995              3,91,21,615.00
+ 
+ Total Amount for the A/c Number: 34004130603                         .00
+ 
+ Total Amount for the A/c Number: 32595570076                         .00
+ 
+ Total Amount for the A/c Number: 32935668093                         .00
+ 
+ Total Amount for the A/c Number: 32482806944                         .00
+ 
+ Total Amount for the A/c Number: 33887261027                         .00
+ 
+ Total Amount for the A/c Number: 31956235050                         .00
+ 
+ Total Amount for the A/c Number: 33323601831                         .00
+ 
+ Total Amount for the A/c Number: 35516658794                         .00
+ 
+ Total Amount for the A/c Number: 31913355356                         .00
+ 
+ 
+ 
+Grand total for the branch:: 00656                 3,91,21,615.00        TOTAL TRANSACTIONS =  457
