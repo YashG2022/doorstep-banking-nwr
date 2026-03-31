@@ -36,14 +36,15 @@ def parse_txt(file):
     # -------------------------
     df["deposit_slip_no"] = df["B"]
     df["txt_station"] = df["E"]
-
+    # print(df["J"].head(10).tolist())
     # ✅ FIX: Convert TXT date (DDMMYYYY → datetime)
     df["txt_date"] = pd.to_datetime(
-        df["J"],
+        df["J"].astype(str).str.replace(".0", "", regex=False).str.strip(),
         format="%d%m%Y",
         errors="coerce"
     )
-    print(df)
+    # print("TXT Date:", df["txt_date"])
+    # print(df)
     return df
 
 
@@ -76,5 +77,6 @@ def parse_excel(file):
         df["pickupdate"],
         errors="coerce"
     )
-    print(df)
+    # print(df)
+    df=df.head(10)
     return df
