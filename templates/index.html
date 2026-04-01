@@ -3,28 +3,86 @@
 
 <head>
     <title>Reconciliation Upload</title>
+
     <style>
+        * {
+            box-sizing: border-box;
+            font-family: 'Segoe UI', sans-serif;
+        }
+
         body {
-            font-family: Arial;
-            padding: 40px;
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            display: flex;
+            justify-content: center;
+            align-items: center;
         }
 
         .container {
-            max-width: 500px;
-            margin: auto;
+            background: #ffffff;
+            padding: 30px;
+            width: 420px;
+            border-radius: 16px;
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.2);
         }
 
-        input,
+        h2 {
+            text-align: center;
+            margin-bottom: 25px;
+            color: #333;
+        }
+
+        .form-group {
+            margin-bottom: 18px;
+        }
+
+        label {
+            display: block;
+            font-size: 14px;
+            margin-bottom: 6px;
+            color: #555;
+            font-weight: 500;
+        }
+
+        input[type="file"] {
+            width: 100%;
+            padding: 10px;
+            border-radius: 8px;
+            border: 1px solid #ccc;
+            background: #f9f9f9;
+            cursor: pointer;
+        }
+
+        input[type="file"]:hover {
+            border-color: #667eea;
+            background: #f4f6ff;
+        }
+
         button {
             width: 100%;
             margin-top: 10px;
-            padding: 10px;
+            padding: 12px;
+            border-radius: 10px;
+            border: none;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            font-size: 16px;
+            cursor: pointer;
+            transition: 0.3s;
         }
 
-        button {
-            background: #007bff;
-            color: white;
-            border: none;
+        button:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 6px 18px rgba(0, 0, 0, 0.25);
+        }
+
+        #result {
+            margin-top: 12px;
+            text-align: center;
+            font-size: 14px;
+            color: green;
         }
     </style>
 </head>
@@ -32,20 +90,26 @@
 <body>
 
     <div class="container">
-        <h2>Upload Files</h2>
+        <h2>📂 Upload Files</h2>
 
         <form id="uploadForm" action="/upload" method="POST" enctype="multipart/form-data">
-            <label>TXT File:</label>
-            <input type="file" name="txt" required>
 
-            <label>Excel File:</label>
-            <input type="file" name="excel" required>
+            <div class="form-group">
+                <label>TXT File</label>
+                <input type="file" name="txt" required>
+            </div>
 
-            <button type="submit">Upload</button>
+            <div class="form-group">
+                <label>Excel File</label>
+                <input type="file" name="excel" required>
+            </div>
+
+            <button type="submit">Upload Files 🚀</button>
         </form>
 
         <p id="result"></p>
     </div>
+
 </body>
 
 </html>

@@ -63,6 +63,13 @@ def upload():
     # Convert dataframe → list of dicts for HTML
     data = merged_df.fillna("").to_dict(orient="records")
 
+    summary = {
+        "total": len(data),
+        "matched": len(merged_df[merged_df["state"] == "MATCHED"]),
+        "mismatch": len(merged_df[merged_df["state"] == "MISMATCH"]),
+        "unmatched": len(merged_df[merged_df["state"].str.startswith("UNMATCHED")])
+    }
+
     return render_template(
         "result.html",
         data=data,
@@ -99,10 +106,19 @@ def dashboard():
     summary_query = text(f"""
         SELECT 
             COUNT(*) as total,
+
             SUM(CASE WHEN state = 'MATCHED' THEN 1 ELSE 0 END) as matched,
-            SUM(CASE WHEN state = 'MISMATCH' THEN 1 ELSE 0 END) as mismatch,
-            SUM(CASE WHEN state LIKE 'UNMATCHED%' THEN 1 ELSE 0 END) as unmatched,
-            SUM(CASE WHEN state = 'MISMATCH' THEN difference ELSE 0 END) as mismatch_amount
+
+            -- Combined mismatch
+            SUM(CASE WHEN state = 'MISMATCH' THEN 1 ELSE 0 END) as mismatched,
+
+            -- Separate unmatched
+            SUM(CASE WHEN state = 'UNMATCH_EXCEL' THEN 1 ELSE 0 END) as unmatch_excel,
+            SUM(CASE WHEN state = 'UNMATCH_TEXT' THEN 1 ELSE 0 END) as unmatch_text,
+
+            -- Total difference only for mismatches
+            SUM(CASE WHEN state = 'MISMATCH' THEN difference ELSE 0 END) as difference
+
         FROM reconciliation_records
         {condition}
     """)
@@ -112,9 +128,10 @@ def dashboard():
     summary = {
         "total": result.total or 0,
         "matched": result.matched or 0,
-        "mismatch": result.mismatch or 0,
-        "unmatched": result.unmatched or 0,
-        "mismatch_amount": result.mismatch_amount or 0
+        "mismatched": result.mismatched or 0,
+        "unmatch_excel": result.unmatch_excel or 0,
+        "unmatch_text": result.unmatch_text or 0,
+        "difference": result.difference or 0
     }
 
     return render_template(
