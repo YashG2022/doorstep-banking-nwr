@@ -9,6 +9,7 @@ def compare_data(txt_df, excel_df):
         "txt_station",
         "txt_date"
     ]]
+    # print("txt_df", txt_df)
 
     excel = excel_df[[
         "deposit_slip_no",
@@ -24,6 +25,8 @@ def compare_data(txt_df, excel_df):
         on="deposit_slip_no",
         how="outer"
     )
+    excel.to_excel("output.xlsx", sheet_name='Sheet1', index=False)
+    txt.to_excel("output.xlsx", sheet_name='Sheet2', index=False)
     print("excel", excel)
     print("txt", txt)
     # -------------------------
@@ -46,5 +49,6 @@ def compare_data(txt_df, excel_df):
         return pd.Series([diff, state])
 
     merged[["difference", "state"]] = merged.apply(compute, axis=1)
+    merged.to_excel("output.xlsx", sheet_name='Sheet3', index=False)
     print(merged)
     return merged
