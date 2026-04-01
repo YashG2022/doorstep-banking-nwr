@@ -1,0 +1,46 @@
+<h2>Dashboard</h2>
+
+<!-- 🔥 ADD FILTER HERE -->
+<h3>Filter</h3>
+
+<a href="/dashboard?range=all">
+    <button {% if selected_range=="all" %}style="background:blue;color:white;" {% endif %}>
+        Lifetime
+    </button>
+</a>
+
+<a href="/dashboard?range=latest">
+    <button {% if selected_range=="latest" %}style="background:blue;color:white;" {% endif %}>
+        Last Day
+    </button>
+</a>
+
+<a href="/dashboard?range=30days">
+    <button {% if selected_range=="30days" %}style="background:blue;color:white;" {% endif %}>
+        Last 30 Days
+    </button>
+</a>
+
+<br><br>
+
+<!-- 📊 SUMMARY CARDS -->
+<div class="cards">
+    <div>Total: {{ summary.total }}</div>
+    <div>Matched: {{ summary.matched }}</div>
+    <div>Mismatch: {{ summary.mismatch }}</div>
+    <div>Unmatched: {{ summary.unmatched }}</div>
+    <div>Mismatch Amount: ₹{{ summary.mismatch_amount }}</div>
+</div>
+
+<br>
+
+<!-- ⬇ DOWNLOAD BUTTONS -->
+<h3>Download Reports</h3>
+
+<a href="/download?type=latest">
+    <button>Download Latest Day</button>
+</a>
+
+<a href="/download?type=30days">
+    <button>Download Last 30 Days</button>
+</a>

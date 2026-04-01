@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <title>Reconciliation Upload</title>
     <style>
@@ -7,15 +8,19 @@
             font-family: Arial;
             padding: 40px;
         }
+
         .container {
             max-width: 500px;
             margin: auto;
         }
-        input, button {
+
+        input,
+        button {
             width: 100%;
             margin-top: 10px;
             padding: 10px;
         }
+
         button {
             background: #007bff;
             color: white;
@@ -23,41 +28,24 @@
         }
     </style>
 </head>
+
 <body>
 
-<div class="container">
-    <h2>Upload Files</h2>
+    <div class="container">
+        <h2>Upload Files</h2>
 
-    <form id="uploadForm">
-        <label>TXT File:</label>
-        <input type="file" name="txt" required>
+        <form id="uploadForm" action="/upload" method="POST" enctype="multipart/form-data">
+            <label>TXT File:</label>
+            <input type="file" name="txt" required>
 
-        <label>Excel File:</label>
-        <input type="file" name="excel" required>
+            <label>Excel File:</label>
+            <input type="file" name="excel" required>
 
-        <button type="submit">Upload</button>
-    </form>
+            <button type="submit">Upload</button>
+        </form>
 
-    <p id="result"></p>
-</div>
-
-<script>
-document.getElementById("uploadForm").addEventListener("submit", async function(e) {
-    e.preventDefault();
-
-    const formData = new FormData(this);
-
-    const response = await fetch("/upload", {
-        method: "POST",
-        body: formData
-    });
-
-    const data = await response.json();
-
-    document.getElementById("result").innerText =
-        "✅ " + data.message + " | Records: " + data.records;
-});
-</script>
-
+        <p id="result"></p>
+    </div>
 </body>
+
 </html>

@@ -8,6 +8,14 @@ def clean_value(val):
         return None
     return val
 
+def execute_query(query, fetch_one=False):
+    with engine.connect() as conn:
+        result = conn.execute(query)
+
+        if fetch_one:
+            return result.fetchone()
+        else:
+            return result.fetchall()
 
 def upsert_records(df):
     with engine.begin() as conn:
