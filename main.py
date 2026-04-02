@@ -10,7 +10,7 @@ import io
 
 app = Flask(__name__)
 
-
+latest_df=None
 # @app.route("/upload", methods=["POST"])
 # def upload():
 
@@ -62,22 +62,61 @@ def upload():
 
     # Convert dataframe → list of dicts for HTML
     data = merged_df.fillna("").to_dict(orient="records")
+    global latest_df
 
+    latest_df = merged_df.copy()
+    # SUMMARY CALCULATION
     summary = {
-        "total": len(data),
+        "total": len(merged_df),
+
         "matched": len(merged_df[merged_df["state"] == "MATCHED"]),
+
         "mismatch": len(merged_df[merged_df["state"] == "MISMATCH"]),
-        "unmatched": len(merged_df[merged_df["state"].str.startswith("UNMATCHED")])
+
+        "unmatch_excel": len(
+            merged_df[merged_df["state"] == "UNMATCHED_EXCEL"]
+        ),
+
+        "unmatch_text": len(
+            merged_df[merged_df["state"] == "UNMATCHED_TXT"]
+        ),
+
+        "difference": round(
+            merged_df["difference"].fillna(0).sum(), 2
+        )
     }
 
     return render_template(
-        "result.html",
-        data=data,
-        columns=merged_df.columns,
-        records=len(merged_df)
+    "result.html",
+    data=merged_df.to_dict(orient="records"),
+    columns=merged_df.columns,
+    records=len(merged_df),
+    summary=summary
     )
 
 
+from flask import send_file
+import io
+
+@app.route("/download_uploaded")
+def download_uploaded():
+    global latest_df
+
+    if latest_df is None:
+        return "No data available"
+
+    # Convert dataframe → CSV in memory
+    output = io.StringIO()
+    latest_df.to_csv(output, index=False)
+
+    output.seek(0)
+
+    return send_file(
+        io.BytesIO(output.getvalue().encode()),
+        mimetype="text/csv",
+        as_attachment=True,
+        download_name="reconciliation_output.csv"
+    )
 @app.route("/dashboard", methods=["GET"])
 def dashboard():
 
